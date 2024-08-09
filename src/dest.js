@@ -1,7 +1,7 @@
 // Links
 const destTwitter = '1';
 const destBuy = document.getElementById("update_on_launch").textContent;
-const destTelegram = 'https://t.me/Wrong_Targetsol';
+const destTelegram = 'https://t.me/BOKctoo';
 const destDext = '1';
 const destBe = '1';
 const name = 'BOK';
